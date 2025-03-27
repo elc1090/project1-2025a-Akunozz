@@ -16,42 +16,37 @@ Acesso: Substitua este texto pela URL para acesso ao site publicado
 
 
 #### Desenvolvedor(a)
-Substitua este texto pela sua identificação: nome e curso
+Breno Rosa - Sistemas de Informação
 
 #### Cliente
-Substitua este texto pela identificação do cliente
-
-
-
+Bruno Perussatto
 
 #### Site/app original
 
 ##### Link
-Substitua este texto pela URL do site/app escolhido
+https://www.umbro.com.br/lancamentos
 
 ##### Descrição
 Substitua este texto por uma descrição do site/app escolhido. Inclua observações sobre seu conteúdo, aparência e código.
 
 #### Demanda do(a) cliente
-Substitua este texto pela demanda do(a) cliente
+Manter o padrão estrutural (pode ser até mais simplificado), ter a opção de mudar o visual para dark mode, trocar a atualização de produtos que acontece via scroll tudo na mesma página para um menu de seleção de páginas (ex: pg 1, 2 e 3) na parte inferior.
 
 #### Desenvolvimento
 
-Substitua este texto por uma descrição do processo de desenvolvimento, explicando suas escolhas para o remake e etapas do trabalho (por exemplo, como foi coletado o conteúdo, como você lidou com as demandas, etc.)
+Foi escolhido o framework NextJs para fazer o site escolhido, visto que uso essa tecnologia para o meu estágio. Outra escolha para os componentes foi a biblioteca Shadcn, pensei nessa biblioteca pois uma demnada do cliente era adicionar um botão para troca de light/dark mode do sistema.
+Primeiramente o projeto foi iniciado criando um componenete para o header do site.
+[escrever conforme for evoluindo no projeto]
 
 
 #### Tecnologias
-
-Substitua este trecho por uma lista detalhada de tecnologias usadas (tanto as básicas, como HTML e CSS, como as mais específicas, por exemplo Tailwind, etc.):
-- ...
-- ...
-- 
+- NextJs
+- React
+- Shadcn
+- TailwindCSS
 
 #### Ambiente de desenvolvimento
-
-Substitua este trecho por uma lista detalhada dos ambientes/ferramentas de desenvolvimento que você usou (por exemplo, VS Code + alguma extensão, etc.)
-- ...
-- ...
+VS Code
 
 #### Referências e créditos
 
