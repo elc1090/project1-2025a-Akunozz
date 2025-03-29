@@ -1,4 +1,5 @@
 import Header from "@/components/Header/header";
+import PaginaPrincipal from "@/components/PaginaPrincipal/PaginaPrincipal";
 import { CardDescription, Card, CardTitle, CardFooter, CardContent } from "@/components/ui/card";
 
 export default function Home() {
@@ -6,11 +7,8 @@ export default function Home() {
     <>
 <Header />
 
-    <main className="pt-10">
-      <Card>
-        teste
-      </Card>
-      
+    <main>
+      <PaginaPrincipal />
     </main>
 
 
